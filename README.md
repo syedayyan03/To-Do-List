@@ -30,15 +30,14 @@ It’s a simple **To-Do List** app that helps you add, delete, and manage daily 
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla JS)**  
+- **JavaScript **  
 - **Local Storage API**
 
 ---
 
 ## 🖼️ Demo
 
-👉 [Live Demo Link](#) *(replace this with your Netlify / GitHub Pages / Vercel link)*  
-📸 You can also add a screenshot here to show how the app looks.
+👉 [[Live Demo Link](http://127.0.0.1:5500/js-projects/01_todo-localstorage/index.html)] 
 
 ---
 
